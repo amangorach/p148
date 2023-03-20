@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bounded Street Lamp
+* source:	https://sketchfab.com/3d-models/bounded-street-lamp-f0e969e400b044ccb47bdfed546c7af3
+* author:	Alex.Latigun (https://sketchfab.com/Alex.Latigun)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bounded Street Lamp" (https://sketchfab.com/3d-models/bounded-street-lamp-f0e969e400b044ccb47bdfed546c7af3) by Alex.Latigun (https://sketchfab.com/Alex.Latigun) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
