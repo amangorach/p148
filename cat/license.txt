@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cat Low Polygon Art Farm Animal
+* source:	https://sketchfab.com/3d-models/cat-low-polygon-art-farm-animal-f03d86cb6c7b4771b343525ed1161e7c
+* author:	Oleg Shuldyakov (https://sketchfab.com/shuographics)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cat Low Polygon Art Farm Animal" (https://sketchfab.com/3d-models/cat-low-polygon-art-farm-animal-f03d86cb6c7b4771b343525ed1161e7c) by Oleg Shuldyakov (https://sketchfab.com/shuographics) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
